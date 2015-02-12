@@ -20,4 +20,4 @@ description:
 >204.232.175.78 pages.github.com
 
 ### 无法访问访问过慢问题
-![测试图片](http://chenzongliang.github.io/image/test.jpg)
+![测试图片](http://chenzongliang.github.io/images/2015-02-03/consistencygroup-1.jpg)
