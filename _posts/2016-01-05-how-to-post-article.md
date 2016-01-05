@@ -22,3 +22,5 @@ description: 如何提交github博客文章
 
     git push origin master
 
+附加上我的个人头像：
+![](http://pan.baidu.com/s/1c0Qji7m)
