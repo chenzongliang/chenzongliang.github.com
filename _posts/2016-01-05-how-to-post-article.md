@@ -23,4 +23,4 @@ description: 如何提交github博客文章
     git push origin master
 
 附加上我的个人头像：
-![个人构想](http://pan.baidu.com/s/1c0Qji7m)
+![个人头像](https://github.com/chenzongliang/chenzongliang.github.com/raw/master/images/head.jpg)
