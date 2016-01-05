@@ -29,7 +29,7 @@ description: 如何提交github博客文章
 
 如果需要在markdown中能显示，需要将路径中的blob修改成raw：
 
-    https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
+    https://github.com/chenzongliang/chenzongliang.github.com/raw/master/images/head.jpg
 
 具体显示效果如下：
 
