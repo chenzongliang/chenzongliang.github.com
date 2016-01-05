@@ -19,8 +19,8 @@ url: https://chenzongliang.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://7u2ho6.com1.z0.glb.clouddn.com/gavatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+gavatar: https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
+favicon: https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
 
 # google analytics 设置
 ga:
