@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何提交博客文章
+title: 如何使用github博客
 category: 博客
 tags: Blog
 description: 如何提交github博客文章
