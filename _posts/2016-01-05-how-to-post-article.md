@@ -22,5 +22,17 @@ description: 如何提交github博客文章
 
     git push origin master
 
-附加上我的个人头像：
+## 图床问题
+首先将图片上传到github仓库：
+
+    https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
+
+如果需要在markdown中能显示，需要将路径中的blob修改成raw：
+
+    https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
+
+具体显示效果如下：
+
 ![个人头像](https://github.com/chenzongliang/chenzongliang.github.com/raw/master/images/head.jpg)
+
+怎么样，效果还不错吧！
