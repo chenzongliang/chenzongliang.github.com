@@ -22,7 +22,7 @@ description: 如何提交github博客文章
 
     git push origin master
 
-## 图床问题
+## 图片无法显示问题
 首先将图片上传到github仓库：
 
     https://github.com/chenzongliang/chenzongliang.github.com/blob/master/images/head.jpg
